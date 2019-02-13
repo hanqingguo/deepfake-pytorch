@@ -1,7 +1,7 @@
 # deepfake_pytorch
 *JUST FOR STUDY AND RESEARCH*
 
-![Processing image](Screenshot from 2018-04-16 15-36-47.png)
+![alt text](https://github.com/hanqingguo/deepfake-pytorch/blob/master/Screenshot%20from%202018-04-16%2015-36-47.png)
 
 ## Requirement:
 ```
